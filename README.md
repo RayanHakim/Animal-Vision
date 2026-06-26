@@ -17,7 +17,7 @@ Aplikasi ini mengimplementasikan berbagai teknik digital image processing (DIP) 
 
 ## 🛠️ Tech Stack & Prasyarat
 
-Sebelum menjalankan proyek ini, pastikan komputer Anda sudah terinstal Python 3.8+ dan pustaka berikut:
+Sebelum menjalankan proyek ini, pastikan komputer Anda sudah terinstal Python 3.12,aku coba 3.13 gak bisa dan pustaka berikut:
 
 * **OpenCV (cv2):** Untuk pemrosesan video stream dan manipulasi matriks gambar.
 * **NumPy:** Untuk komputasi array dan operasi matematika filter warna.
